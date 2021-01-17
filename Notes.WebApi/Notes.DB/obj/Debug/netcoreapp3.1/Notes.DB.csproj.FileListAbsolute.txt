@@ -1,0 +1,12 @@
+C:\Projects\VS\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.deps.json
+C:\Projects\VS\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.json
+C:\Projects\VS\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.dev.json
+C:\Projects\VS\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Projects\VS\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Projects\VS\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csprojAssemblyReference.cache
+C:\Projects\VS\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfoInputs.cache
+C:\Projects\VS\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfo.cs
+C:\Projects\VS\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csproj.CoreCompileInputs.cache
+C:\Projects\VS\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.dll
+C:\Projects\VS\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.pdb
+C:\Projects\VS\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.genruntimeconfig.cache
